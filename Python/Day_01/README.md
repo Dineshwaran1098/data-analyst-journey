@@ -27,3 +27,17 @@ Inniku Python-la raw text data matrum strings-ah epdi handle pannanum nu scratch
 * **Lab Challenge Finished:** Server log variable (`TXN_ID:992834_STATUS:SUCCESS`) simulation-la irundhu exact indexing range values match panni `992834` numeric token data-ah successfully extract panni output eduthuten!
 
 
+# 📅 July 7, 2026
+## 🚀 Day 4: Lists Matrix A to Z (Breakdowns Mudichacha!)
+
+Inniku Python-la romba mukkiyama ulla List collection box pathi full-ah zero-la irundhu adichi thovachaachu! Data analytics rows handling-ku idhu thaan base.
+
+### 📌 Inniku Naan Padicha Simple Topics:
+* **The List Container:** Multi-type data-ah (numbers, text strings) ore variable brackets `[ ]` kulla duplicate elements sethu epdi store panradhu nu paathen.
+* **Indexing & Slicing Framework:** Matrix array-la munnadi irundhu (+) and pinnadi irundhu (-) positional reference pointer values thooki slices cut panna kathukiten.
+* **Grow Tools (`append` vs `extend` vs `insert`):** End-la single value serka append, bulk items breakdown panni unpack panna extend, exact space-la data-ah thooki ulla vaikara insert tricks-oda difference purinjidhichu.
+* **Shrink Utilities (`remove` vs `pop`):** Pattern search vachi value-ah direct-ah thookuvadharku remove, indexing numbers vachi memory block array-la irundhu data-ah veliya thalli dynamic return edupadharku pop methods use panna kathukiten.
+* **Lab Challenge Finished:** Salary calculation list array-ah (`corporate_salaries`) create panni, append, insert variables clean setups mudichu, kadaisila `sort(reverse=True)` vachi pure descending matrix formatting-la clean execution panni output thookiten!
+
+
+

@@ -29,3 +29,31 @@ print(languages) # Output: ['Python', 'SQL', 'R', 'BI', 'Spark']
 # 3. insert target index injection
 languages.insert(1, "Tableau") # 1st position injection
 print(languages) # Output: ['Python', 'Tableau', 'SQL', 'R', 'BI', 'Spark']
+
+
+metrics = [45, 99, 12, 78, 56]
+
+# Ascending sort ordering override update
+metrics.sort()
+print(f"Ascending: {metrics}") # Output: [12, 45, 56, 78, 99]
+
+# Descending parameters alignment config
+metrics.sort(reverse=True)
+print(f"Descending: {metrics}") # Output: [99, 78, 56, 45, 12]
+
+# Occurrence count analytics tracking properties metrics check
+log_signals = ["ERR", "INFO", "ERR", "WARN"]
+print(log_signals.count("ERR")) # Output: 2
+
+analytics_stack = ["Python", "SQL", "Excel", "SAS", "Excel"]
+
+# 1. remove values clean tracking check
+analytics_stack.remove("Excel") # First duplicate entry remove aairum
+print(analytics_stack) # Output: ['Python', 'SQL', 'SAS', 'Excel']
+
+# 2. pop index extraction check
+popped_item = analytics_stack.pop(2) # SAS index 2 arrays elements remove validation return execution
+print(f"Removed: {popped_item}") # Removed: SAS
+print(analytics_stack) # Output: ['Python', 'SQL', 'Excel']
+del analytics_stack[1]
+print(analytics_stack)
