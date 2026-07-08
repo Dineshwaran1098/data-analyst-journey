@@ -13,4 +13,4 @@ tricky_tuple = (2026, [10, 20])
 # Try to modify the list INSIDE the tuple:
 tricky_tuple[1].append(30)
 
-print(tricky_tuple) # Output: (2026, [10, 20, 30]) -> 
+print(tricky_tuple) # Output: (2026, [10, 20, 30])
