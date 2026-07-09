@@ -51,6 +51,9 @@ Inniku data science pipelines-la constants secure locked panradhukum, messy dupl
 * **Sets Duplicate Removal `{ }`:** Heavy raw logging parameters context entries mapping list array entries context arrays-ah unique elements set arrays-ku trigger push panna absolute rows duplication anomalies auto gaali! 
 * **Set Mathematical Venn-Operations:** Matrix lists collections values check filter overlays-ku common overlap properties thooka `intersection()`, unified dynamic list thooka `union()`, unique items comparison trace logic extract panna `difference()` functions implementation use panna kathukiten!
 
+## Day 6: Dictionary
+Dictionary end to end learn panni irukom, dictionary la data epadi add pannuradhula irundhu adhula back-end enna nadakudhunu varikyum parthu irukom and some practical sessions parthu irukom nalaiku pudhu topic la parkalam.
+
 
 
 
